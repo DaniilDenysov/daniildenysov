@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**DaniilDenysov/daniildenysov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity Game Developer · Warsaw, PL**
 
-Here are some ideas to get you started:
+I architect and **ship** complete Unity games — gameplay, netcode, tooling and shaders — across Android, iOS, WebGL, VR and PC. Having four published titles on Google Play, a multiplayer FPS, and an open-source framework of 30 systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Founder & Lead Unity Developer at **Cenoir Studios**; commercial WebGL / mobile / VR at **Azulon Studio**
+- 🧱 I care about clean, modular, scalable architecture (SOLID), solid docs, and shipping under real deadlines
+- 🌐 Portfolio → **https://daniildenysov.github.io/Portfolio/**
+
+### Tech
+
+`C#` · `Unity` · Multiplayer (Mirror) · Shader Graph & VFX · UI, tooling & editor extensions · AI / Behavior Trees · Firebase · CI/CD
+
+### Selected work
+...
