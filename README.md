@@ -6,7 +6,7 @@
   <a href="https://daniildenysov.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daniil-denysov-b9632b299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:den.danya.denysov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=BlackFoursquare"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=9009838401298101049"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=googleplay&logoColor=white"/></a>
 </p>
 
 # 💫 About Me
@@ -33,7 +33,7 @@
 [![White in Black](https://img.shields.io/badge/White%20in%20Black-Google%20Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.BlackFoursquare.WhiteinBlack)
 [![White in Black WebGL](https://img.shields.io/badge/White%20in%20Black-WebGL-990000?style=flat&logo=webgl&logoColor=white)](https://daniildenysov.github.io/Portfolio/)
 
-[![BlackFoursquare](https://img.shields.io/badge/BlackFoursquare-All%20Games-111827?style=flat&logo=googleplay&logoColor=white)](https://blackfoursquare.github.io/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Black4Square-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9009838401298101049)
 
 ---
 
@@ -115,5 +115,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=flat&logo=googlechrome&logoColor=white)](https://daniildenysov.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-denysov-b9632b299/)
 [![Email](https://img.shields.io/badge/Email-den.danya.denysov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:den.danya.denysov@gmail.com)
-[![Google Play](https://img.shields.io/badge/Google%20Play-BlackFoursquare-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=BlackFoursquare)
-[![BlackFoursquare](https://img.shields.io/badge/BlackFoursquare-Website-111827?style=flat&logo=googlechrome&logoColor=white)](https://blackfoursquare.github.io/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Black4Square-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9009838401298101049)
+[![Black4Square](https://img.shields.io/badge/Black4Square-Website-111827?style=flat&logo=googlechrome&logoColor=white)](https://black4square.com)
